@@ -1,8 +1,16 @@
       h1{
         color: yellow;
-        background-color: red;
+        display:inline-block;
+        background-color: rgb(5, 15, 41);
       }
       .hehe{
-        color:blue;
+        color:rgb(0, 255, 153);
         background-color:azure ;
       }
+      a{
+        color:white;
+        
+      }
+      h1 {margin:20px;
+          padding:500px;
+      }        
